@@ -14,7 +14,3 @@ This repository contains solutions to various problems from LeetCode. Each solut
 2. Create a new branch for your solution.
 3. Add your solution in the appropriate category folder.
 4. Submit a pull request.
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
